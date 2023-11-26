@@ -1,5 +1,3 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 Trata-se de modelo de página profissional, com foto, breve descrição e links associados.
 
@@ -19,4 +17,4 @@ Trata-se de modelo de página profissional, com foto, breve descrição e links 
 
 ### Linkedin: www.linkedin.com/in/bruna-ester-azevedo-8a986b18b
 
-```
+
